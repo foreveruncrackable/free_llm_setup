@@ -3,11 +3,11 @@ an repo for setting up freellm in few keystrokes
 original credits to Tash Ahmed
 
 ##setup
-
-#$git clone https://github.com/foreveruncrackable/free_llm_setup
-#$cd free_llm_setup
-#$sudo ./setup-freellmapi.sh
-
+'''
+$git clone https://github.com/foreveruncrackable/free_llm_setup
+$cd free_llm_setup
+$sudo ./setup-freellmapi.sh
+'''
 the script will automatically setup free llm and you can visit it at 
 http://localhost:3001/
 
